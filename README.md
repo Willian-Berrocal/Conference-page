@@ -1,19 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# (project name......................................................)
+# Conference page
 
-> (instructions......................................................)
-> 
+- Setted up Linters
+- Mobile version added
+- Page deployed with GitHub Pages
+- HTML files filled with content
+- CSS styling done (for both mobile and desktop)
+- Dynamic HTML done with JavaScript
+- Menu buttons behavior done with JavaScript
 
 
 ## Built With
 
-- (HTML & CSS.........................................................)
+- HMTL
+- CSS
+- JavaScript
 
 
 ## Getting Started
 
 Clone this repository and open it in your browser.
+
+### Deployment
+
+https://willian-berrocal.github.io/Conference-page/
 
 
 ## Authors
@@ -39,6 +50,8 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - Microverse
+- Cindy Shin who is the author of the original design
+- Pexels for the images
 
 ## 📝 License
 
