@@ -482,4 +482,21 @@ footer {
   .page-past-summits div {
     flex-direction: row;
   }
+
+  /* ----------- PAGE-PARTNERS ----------- */
+
+  .partners-about-only {
+    display: none;
+  }
+
+  /* ----------- DESK-PAGE-FOOTER ----------- */
+
+  .footer-about-only {
+    background-color: var(--dark-bg);
+    color: var(--light-text);
+  }
+
+  .footer-about-only .logo {
+    color: var(--light-text);
+  }
 }
